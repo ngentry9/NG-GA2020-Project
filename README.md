@@ -2,7 +2,12 @@
 
 ## Introduction
 
-This Project is meant to analyze the different mental illnesses by region of the US, gender and ethnicity in order to see if a pattern emerges. 
+1 in 5 people live with a mental health condition. And across the population, 1 in every 25 adults is living with a serious mental health condition such as schizophrenia, bipolar disorder or long-term recurring major depression. As with other serious illnesses, mental illness is not your fault or that of the people around you, but widespread misunderstandings about mental illness remain.
+
+I'm curious to understand more of the demographics surrounding mental health. There have been studies already done that show that some mental illnesses arise due to situational circumstances. 
+
+
+This project is meant to analyze the different mental illnesses by region of the US, gender and ethnicity in order to see if a pattern emerges.  
 
 ## Data Dictionary
 
