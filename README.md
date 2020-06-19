@@ -34,3 +34,6 @@ It would be nice to have the age of the people as well, or if they're taking med
 * [Dataset](https://www.kaggle.com/bobnis/us-stats-meillness) - Link to Dataset on Kaggle
 * [NAMI](https://nami.org/Home) - Resources for Mental Health
 * [Fact Sheet] (Mental-Health-Facts-for-Diverse-Populations.pdf![image.png](attachment:image.png)
+
+## Student Work Release
+I couldn't figure out how to sign that gosh darn pdf, so this is my way of saying, I sign that document and give my permission to use my work.
